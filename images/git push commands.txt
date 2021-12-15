@@ -1,0 +1,10 @@
+
+Create new repository in your github browser
+git init
+git add .
+git commit -m "first commit"
+git branch -M "your new branch name"
+git remote add origin "Type your github repository url Here"
+git push -u origin "branch name"
+
+
